@@ -3,49 +3,52 @@ body {
     padding: 0px;
     align-items: center;
     text-align: center;
-    background-color: #C2C7FF;
+    background-color: #DBBEDC;
 }
 
 img{
   width: 150px;
   height: 150px;
-  position: center;
-  align-items: center;
+ 
+  
 }
 .ini{
   align-items: center;
-  background-color: #6672F4;
+  background-color: #9D9ABA;
   padding: 0%;
   width: auto;
-  height: 100px;
+  height: 150px;
   border-radius: 20px;
-  box-shadow: 2px 2px 2px #00032354;
+  box-shadow: 2px 2px 2px #69486A69;
 }
 
 h1{
   font-family: sans-serif;
+  color:#F7EBFF;
 }
 p{
   font-weight: bold;
   color: #0A1060;
 }
+
 .p{
   font-family: bold;
-  color: #474EA1;
+  color: #8C6B9F;
 }
+
 .final{
-  background-color:#5A5E8F;
+  background-color:#924E8C;
   border-radius: 23px;
   font-family: bold;
 }
 de{
   font-style: bold;
-  color: #86D1D6;
+  color: #C679BF;
   
 }
 e{
   font-style: bold;
-  color: #86D1D6;
+  color: #AB78F3;
   
 }
 
